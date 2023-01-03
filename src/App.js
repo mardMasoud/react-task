@@ -1,7 +1,7 @@
 import Header from "./Components/header/Header";
 function App() {
   return (
-    <div>
+    <div className="container">
       <Header
        title="مدیریت وظایف"
        />
